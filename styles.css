@@ -29,5 +29,23 @@ a {
   background-color: aqua;
   display: flex;
   justify-content: center;
+}
+
+.welcome-body {
+  display: flex;
+  justify-content: center;
   align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.tile {
+  min-width: 100px;
+  height: auto;
+}
+
+.contact-section {
+}
+
+footer {
 }
